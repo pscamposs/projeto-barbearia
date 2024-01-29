@@ -24,11 +24,9 @@ Landing Page para uma Barbearia, um projeto feito com auxilio de uma série de v
 
 - **Localização**: Se você estiver interessado em agendar um horário consulte o local de atendimento.
 
- 
-
 ## Demonstração
 
-Visite a [página de demonstração](https://barber.pscampos.online/) para ver a Landing Page em ação.
+Visite a [página de demonstração](https://barbearia.pscampos.online/) para ver a Landing Page em ação.
 
 ## Tecnologias Utilizadas
 
